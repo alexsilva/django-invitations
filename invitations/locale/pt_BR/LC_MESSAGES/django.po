@@ -32,7 +32,7 @@ msgstr "enviado"
 
 #: base_invitation.py:14
 msgid "inviter"
-msgstr "Convidador"
+msgstr "Convidado por"
 
 #: forms.py:30
 msgid "This e-mail address has already been invited."
